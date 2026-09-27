@@ -1,0 +1,9 @@
+import { Color } from 'cc';
+import { GAME_CHROME_PALETTE } from './GameChromeConfig';
+
+/** 与大厅 / 一笔画主色一致 */
+export const GAME_CHROME_PRIMARY = GAME_CHROME_PALETTE.PRIMARY;
+export const GAME_CHROME_LINE = GAME_CHROME_PALETTE.LINE;
+export const GAME_CHROME_ON_PRIMARY = GAME_CHROME_PALETTE.ON_PRIMARY;
+export const GAME_CHROME_MUTED = GAME_CHROME_PALETTE.MUTED;
+export const GAME_CHROME_AD_BG = GAME_CHROME_PALETTE.AD_BG;
